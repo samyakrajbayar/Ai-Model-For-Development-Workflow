@@ -16,7 +16,7 @@
 
 </div>
 
-## ✨ Features
+### ✨ Features
 
 <table>
 <tr>
