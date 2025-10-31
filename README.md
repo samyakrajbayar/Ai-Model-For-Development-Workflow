@@ -8,13 +8,13 @@
 
 > A complete, enterprise-grade AI/ML development framework with automated training, evaluation, deployment, and monitoring capabilities.
 
-<div align="center">
+
 
 ![Demo](https://via.placeholder.com/800x400/1e1e2e/ffffff?text=AI%2FML+Framework+Dashboard)
 
 *Real-time monitoring dashboard with performance metrics and interactive testing*
 
-</div>
+
 
 ### ✨ Features
 
